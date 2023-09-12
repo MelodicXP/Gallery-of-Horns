@@ -46,6 +46,11 @@
   transition: 250ms;
 }
 
+.g-4 {
+justify-content: center;
+
+}
+
 .col {
   display: flex;
   flex-direction: column;
