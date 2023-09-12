@@ -42,12 +42,37 @@
 }
 
 img {
-  max-width: 20%;
+  max-width: 50%;
 }
 
-
-
-.row {
-  max-width: 100%;
+.col {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid rgb(23, 199, 117);
+  margin: 1%;
+  justify-content:space-between;
+  align-items: center;
 }
 
+.btn.btn-info:hover {
+
+  margin-bottom: 4%;
+  background-color: rgb(63, 214, 63);
+  color: white;
+  font-size: 1.25em;
+
+ }
+
+.btn.btn-info {
+ margin-bottom: 4%;
+ color: white;
+ transition: 250ms;
+}
+
+.heart-img {
+  max-width: 10%;
+}
+
+.heart-number {
+  margin-top: 3%;
+}
