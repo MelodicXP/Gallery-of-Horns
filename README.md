@@ -50,7 +50,7 @@ Any environment configuration steps.
 
 ### September 18, 2023 - Feature 1 - Display Images
 
-    Number and name of feature: Display Images
+    Number and name of feature: 1 - Display Images
 
     Estimate of time needed to complete: 1.5 hours
 
@@ -62,7 +62,7 @@ Any environment configuration steps.
 
 ### September 18 - 19, 2023 - Feature 3 - Style Page
 
-    Number and name of feature: Style Page
+    Number and name of feature: 3 - Style Page
 
     Estimate of time needed to complete: 1.5 hours
 
@@ -75,6 +75,18 @@ Any environment configuration steps.
     End time: 10:30 am
 
     Actual time needed to complete: 2 hr 15 minutes
+
+### September 20, 2023 - Feature 2 - Allow Users to Favorite an Image
+
+    Number and name of feature: 2 - Favorite an Image
+
+    Estimate of time needed to complete: 1.5 hours
+
+    Start time: 11:00 am
+
+    Finish time: 11:45 am
+
+    Actual time needed to complete: 45 minutes
 
 ## Collaborators
 
