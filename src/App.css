@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+img {
+  max-width: 20%;
+}
+
+
+
+.row {
+  max-width: 100%;
+}
+
