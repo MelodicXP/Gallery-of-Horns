@@ -16,7 +16,7 @@ class HornedBeast extends React.Component {
   }
 
   // Handles when user clicks on button (adds 1 to favorite counter)
-  handleClick = () => {
+  handleFavoriteClick = () => {
     this.setState( { totalFavorites: this.state.totalFavorites + 1}); // Adds 1 to counter
   };
 
@@ -26,9 +26,9 @@ class HornedBeast extends React.Component {
       <>
           <p className='heart-number'><img src="src/assets/heart.webp" alt="picture of heart" className='heart-img'/>{` ${this.state.totalFavorites}`}</p>
           <h2>{this.props.title}</h2>
-          <img src={this.props.imageUrl} alt={this.props.description} title ={this.props.title} />
+          <img className='horned-beast-img'src={this.props.imageUrl} alt={this.props.description} title ={this.props.title} />
           <p>{this.props.description}</p>
-          <Button variant="info" onClick={this.handleClick}>Click to Favorite!</Button>{' '}
+          <Button variant="info" onClick={this.handleFavoriteClick}>Click to Favorite!</Button>{' '}
       </>  
     )
   }
