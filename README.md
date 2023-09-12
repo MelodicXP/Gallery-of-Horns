@@ -48,7 +48,7 @@ Any environment configuration steps.
 
 ## Change Log
 
-### September 18, 2023
+### September 18, 2023 - Feature 1 - Display Images
 
     Number and name of feature: Display Images
 
@@ -56,9 +56,25 @@ Any environment configuration steps.
 
     Start time: 10:45am
 
-    Finish time: _____
+    Finish time: 12:00pm
 
-    Actual time needed to complete: _____
+    Actual time needed to complete: 1 hr 15 minutes
+
+### September 18 - 19, 2023 - Feature 3 - Style Page
+
+    Number and name of feature: Style Page
+
+    Estimate of time needed to complete: 1.5 hours
+
+    Start time: 12:01 pm
+
+    Finish time: 12:30 pm
+
+    Start time: 8:45 am
+
+    End time: 10:30 am
+
+    Actual time needed to complete: 2 hr 15 minutes
 
 ## Collaborators
 
