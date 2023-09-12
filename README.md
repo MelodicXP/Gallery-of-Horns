@@ -48,17 +48,29 @@ Any environment configuration steps.
 
 ## Change Log
 
-### September 18, 2023 - Feature 1 - Display Images
+### September 20, 2023 - Feature 4 - Display a Modal
 
-    Number and name of feature: 1 - Display Images
+    Number and name of feature: 4 - Display a Modal
 
     Estimate of time needed to complete: 1.5 hours
 
-    Start time: 10:45am
+    Start time: 11:00 am
 
-    Finish time: 12:00pm
+    Finish time: 11:45 am
 
-    Actual time needed to complete: 1 hr 15 minutes
+    Actual time needed to complete: 45 minutes
+
+### September 19, 2023 - Feature 2 - Allow Users to Favorite an Image
+
+    Number and name of feature: 2 - Favorite an Image
+
+    Estimate of time needed to complete: 1.5 hours
+
+    Start time: 11:00 am
+
+    Finish time: 11:45 am
+
+    Actual time needed to complete: 45 minutes
 
 ### September 18 - 19, 2023 - Feature 3 - Style Page
 
@@ -76,29 +88,17 @@ Any environment configuration steps.
 
     Actual time needed to complete: 2 hr 15 minutes
 
-### September 19, 2023 - Feature 2 - Allow Users to Favorite an Image
+### September 18, 2023 - Feature 1 - Display Images
 
-    Number and name of feature: 2 - Favorite an Image
-
-    Estimate of time needed to complete: 1.5 hours
-
-    Start time: 11:00 am
-
-    Finish time: 11:45 am
-
-    Actual time needed to complete: 45 minutes
-
-### September 20, 2023 - Stretch Goal - Change Background Color
-
-    Number and name of feature: Stretch Goal - Change background color upon clicking title of page
+    Number and name of feature: 1 - Display Images
 
     Estimate of time needed to complete: 1.5 hours
 
-    Start time: 8:45 am
+    Start time: 10:45am
 
-    Finish time: 10:15 am
+    Finish time: 12:00pm
 
-    Actual time needed to complete: 1 hour 30 minutes
+    Actual time needed to complete: 1 hr 15 minutes
 
 ## Resources
 
