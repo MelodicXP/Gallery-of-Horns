@@ -41,8 +41,9 @@
   color: #888;
 }
 
-img {
+.horned-beast-img {
   max-width: 50%;
+  transition: 250ms;
 }
 
 .col {
@@ -76,3 +77,20 @@ img {
 .heart-number {
   margin-top: 3%;
 }
+
+h1:hover {
+  cursor: pointer;
+  font-size: 3.25em;
+  color: rgb(23, 199, 117);
+}
+
+h1 {
+  transition: 250ms;
+  max-width:max-content
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
