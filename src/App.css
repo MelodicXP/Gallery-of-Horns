@@ -46,9 +46,13 @@
   transition: 250ms;
 }
 
+.horned-beast-img:hover {
+  max-width: 60%;
+  cursor: pointer;
+} 
+
 .g-4 {
 justify-content: center;
-
 }
 
 .col {
@@ -99,3 +103,11 @@ header {
   justify-content: center;
 }
 
+.modal-image {
+  max-width: 100%;
+}
+
+.modal-elements p {
+  text-align: center;
+  margin-top: 3%;
+}
