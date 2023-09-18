@@ -1,6 +1,6 @@
-# PROJECT NAME
+# Horned Beasts
 
-project description goes here.
+View a gallery of horned beasts!
 
 ## Getting Started
 
@@ -44,8 +44,22 @@ Any environment configuration steps.
 
 ### Languages & tools
 
+    Javascript, HTML, CSS, and React Bootstrap
+
 ## Change Log
+
+### September 18, 2023
+
+    Number and name of feature: Display Images
+
+    Estimate of time needed to complete: 1.5 hours
+
+    Start time: 10:45am
+
+    Finish time: _____
+
+    Actual time needed to complete: _____
 
 ## Collaborators
 
-List collaborators here.
+Melodic
