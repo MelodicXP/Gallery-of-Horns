@@ -1,6 +1,6 @@
 # Horned Beasts
 
-View a gallery of horned beasts!
+View a gallery of horned beasts and favorite your preferred image.
 
 ## Getting Started
 
@@ -48,17 +48,61 @@ Any environment configuration steps.
 
 ## Change Log
 
-### September 18, 2023
+### September 18, 2023 - Feature 1 - Display Images
 
-    Number and name of feature: Display Images
+    Number and name of feature: 1 - Display Images
 
     Estimate of time needed to complete: 1.5 hours
 
     Start time: 10:45am
 
-    Finish time: _____
+    Finish time: 12:00pm
 
-    Actual time needed to complete: _____
+    Actual time needed to complete: 1 hr 15 minutes
+
+### September 18 - 19, 2023 - Feature 3 - Style Page
+
+    Number and name of feature: 3 - Style Page
+
+    Estimate of time needed to complete: 1.5 hours
+
+    Start time: 12:01 pm
+
+    Finish time: 12:30 pm
+
+    Start time: 8:45 am
+
+    End time: 10:30 am
+
+    Actual time needed to complete: 2 hr 15 minutes
+
+### September 19, 2023 - Feature 2 - Allow Users to Favorite an Image
+
+    Number and name of feature: 2 - Favorite an Image
+
+    Estimate of time needed to complete: 1.5 hours
+
+    Start time: 11:00 am
+
+    Finish time: 11:45 am
+
+    Actual time needed to complete: 45 minutes
+
+### September 20, 2023 - Stretch Goal - Change Background Color
+
+    Number and name of feature: Stretch Goal - Change background color upon clicking title of page
+
+    Estimate of time needed to complete: 1.5 hours
+
+    Start time: 8:45 am
+
+    Finish time: 10:15 am
+
+    Actual time needed to complete: 1 hour 30 minutes
+
+## Resources
+
+[Heart Image - Creative Commons](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4NS0zMS1wLnBuZw.png?s=3mXWtJo-6hWc_PTad35orL_SHH2ZEzvu_MQjLYv_mMs)
 
 ## Collaborators
 
