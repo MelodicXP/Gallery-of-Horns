@@ -22,14 +22,33 @@ class HornedBeast extends React.Component {
 
   render() {
 
+    // Write props passed in from parent in one line, instead of 'this.props' everytime used
+    let { title, imageUrl, description, handleImageClick } = this.props
+
     return (
       <>
-          <p className='heart-number'><img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4NS0zMS1wLnBuZw.png?s=3mXWtJo-6hWc_PTad35orL_SHH2ZEzvu_MQjLYv_mMs" alt="picture of heart" className='heart-img'/>{` ${this.state.totalFavorites}`}</p>
-          <h2>{this.props.title}</h2>
-          <img className='horned-beast-img'src={this.props.imageUrl} alt={this.props.description} title ={this.props.title} />
-          <p>{this.props.description}</p>
+
+          <p className='heart-number'>
+            <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4NS0zMS1wLnBuZw.png?s=3mXWtJo-6hWc_PTad35orL_SHH2ZEzvu_MQjLYv_mMs" alt="picture of heart" 
+            className='heart-img'/>
+          {` ${this.state.totalFavorites}`}
+          </p>
+
+          <h2>{title}</h2>
+
+          <img 
+            className='horned-beast-img'
+            src = {imageUrl} 
+            alt = {description} 
+            title = {title}
+            onClick = {handleImageClick} // Trigger handleImageClick () function when clicked, already contains data passed in from Gallery.
+          />
+
+          <p>{description}</p>
+          
           <Button variant="info" onClick={this.handleFavoriteClick}>Click to Favorite!</Button>{' '}
-      </>  
+      </> 
+
     )
   }
 
