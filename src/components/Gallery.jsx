@@ -5,6 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 
+
 class Gallery extends React.Component {
 
   constructor(props) {
@@ -17,7 +18,7 @@ class Gallery extends React.Component {
   render() {
 
     // Write props passed in from parent in one line, instead of 'this.props' everytime used
-    let { hornedBeastImageData, handleImageClick } = this.props;
+    let { hornedBeastImageData, handleImageClick, selectedSortValue } = this.props;
 
     return (
 
