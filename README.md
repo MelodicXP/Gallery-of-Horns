@@ -48,6 +48,26 @@ Any environment configuration steps.
 
 ## Change Log
 
+### September 28, 2023 - Feature 4 - Display a Modal
+
+    Number and name of feature: 4 - Display a Modal
+
+    Estimate of time needed to complete: 2 hours
+
+    Start time: 3:00 pm
+
+    Finish time: 5:00 pm
+
+    Start time: 
+
+    Finish time: 
+
+    Start time: 
+
+    Finish time: 
+
+    Actual time needed to complete: 
+
 ### September 22 - 25, 2023 - Feature 4 - Display a Modal
 
     Number and name of feature: 4 - Display a Modal
