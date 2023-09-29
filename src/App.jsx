@@ -48,6 +48,7 @@ function App() {
         // Pass handleImageClick() function as prop to Gallery
         handleImageClick = {handleImageClick} 
 
+        // Pass value of value chose in drop down into Gallery, to use for filtering purpose
         selectedSortValue = {selectedSortValue}
       />
 
@@ -63,6 +64,7 @@ function App() {
       ) }
 
       <Footer />
+      
     </>
   )
 }
