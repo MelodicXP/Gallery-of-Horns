@@ -48,7 +48,7 @@ Any environment configuration steps.
 
 ## Change Log
 
-### September 28, 2023 - Feature 4 - Display a Modal
+### September 28 - 29, 2023 - Feature 4 - Display a Modal
 
     Number and name of feature: 4 - Display a Modal
 
@@ -58,15 +58,11 @@ Any environment configuration steps.
 
     Finish time: 5:00 pm
 
-    Start time: 
+    Start time: 8:45 am
 
-    Finish time: 
+    Finish time: 10:45 am
 
-    Start time: 
-
-    Finish time: 
-
-    Actual time needed to complete: 
+    Actual time needed to complete: 4 hrs
 
 ### September 22 - 25, 2023 - Feature 4 - Display a Modal
 
